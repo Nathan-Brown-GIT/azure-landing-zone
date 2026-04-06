@@ -1,0 +1,10 @@
+# Local Terraform files
+.terraform/
+.terraform.lock.hcl
+
+# State files - contain sensitive info about your infrastructure
+*.tfstate
+*.tfstate.backup
+
+# Variable files that might contain secrets
+*.tfvars
