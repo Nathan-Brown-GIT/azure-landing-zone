@@ -16,7 +16,7 @@ In Progress
 - Azure Monitor + Log Analytics
 
 ## Architecture
-*Diagram coming soon*
+Diagram of Azure layout in Git repo
 
 ## Author
 Nathan Brown
